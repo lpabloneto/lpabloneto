@@ -38,7 +38,7 @@ A<!DOCTYPE html>
   </style>
 </head>
 <body>
-  <h1>Simulado Interativo – Farmacologia 1 (IDOMED)</h1>
+  <h1>Simulado Interativo – Farmacologia 1 (Universitário)</h1>
   <p>Clique em uma alternativa para saber se está correta e ver a explicação.</p>
 
   <div id="quiz"></div>
